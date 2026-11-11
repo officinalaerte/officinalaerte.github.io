@@ -1,0 +1,686 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Officina Laerte//Fasi lunari 2027//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Fasi lunari 2027
+X-WR-CALNAME:Fasi lunari 2027
+X-WR-CALDESC:Le fasi della luna del 2027 in ora italiana\, con le indicazio
+ ni della tradizione per l'orto. Officina Laerte.
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:20270107-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Luna nuova (ore 21:24)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 21:24 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270115-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Primo quarto (ore 21:34)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 21:34 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Luna piena (ore 13:17)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 13:17 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270129-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Ultimo quarto (ore 11:55)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 11:55 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270206-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Luna nuova (ore 16:56)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 16:56 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270214-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Primo quarto (ore 08:58)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 08:58 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270221-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Luna piena (ore 00:23)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 00:23 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270228-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Ultimo quarto (ore 06:16)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 06:16 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270308-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Luna nuova (ore 10:29)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 10:29 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270315-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Primo quarto (ore 17:25)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 17:25 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270322-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Luna piena (ore 11:43)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 11:43 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270330-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Ultimo quarto (ore 02:53)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 02:53 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270407-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Luna nuova (ore 01:51)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 01:51 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270414-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Primo quarto (ore 00:56)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 00:56 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270421-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Luna piena (ore 00:27)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 00:27 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270428-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Ultimo quarto (ore 22:17)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 22:17 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270506-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Luna nuova (ore 12:58)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 12:58 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270513-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Primo quarto (ore 06:43)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 06:43 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270520-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Luna piena (ore 12:59)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 12:59 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270528-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Ultimo quarto (ore 15:57)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 15:57 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270604-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Luna nuova (ore 21:40)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 21:40 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270611-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Primo quarto (ore 12:56)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 12:56 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270619-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Luna piena (ore 02:44)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 02:44 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270627-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Ultimo quarto (ore 06:54)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 06:54 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270704-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Luna nuova (ore 05:02)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 05:02 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270710-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Primo quarto (ore 20:39)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 20:39 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270718-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Luna piena (ore 17:45)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 17:45 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270726-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Ultimo quarto (ore 18:55)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 18:55 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270802-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Luna nuova (ore 12:05)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 12:05 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270809-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Primo quarto (ore 06:54)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 06:54 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270817-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Luna piena (ore 09:28)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 09:28 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270825-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Ultimo quarto (ore 04:27)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 04:27 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270831-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Luna nuova (ore 19:41)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 19:41 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270907-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Primo quarto (ore 20:31)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 20:31 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270916-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Luna piena (ore 01:03)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 01:03 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270923-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Ultimo quarto (ore 12:20)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 12:20 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270930-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Luna nuova (ore 04:36)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 04:36 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271007-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:Primo quarto (ore 13:47)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 13:47 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271015-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Luna piena (ore 15:46)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 15:46 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271022-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:Ultimo quarto (ore 19:29)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 19:29 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271029-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:Luna nuova (ore 15:36)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 15:36 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271106-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271107
+SUMMARY:Primo quarto (ore 09:00)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 09:00 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271114-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:Luna piena (ore 04:25)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 04:25 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271121-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:Ultimo quarto (ore 01:48)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 01:48 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271128-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:Luna nuova (ore 04:24)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 04:24 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271206-primo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+SUMMARY:Primo quarto (ore 06:22)
+DESCRIPTION:Luna crescente: tradizionalmente si seminano ortaggi da foglia 
+ e da frutto e si trapianta.\nOra esatta: 06:22 ora italiana.\nCalendario l
+ unare dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36
+ NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271213-piena@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+SUMMARY:Luna piena (ore 17:08)
+DESCRIPTION:Inizia la luna calante: tradizionalmente si seminano ortaggi da
+  radice e da bulbo e si raccoglie per conservare.\nOra esatta: 17:08 ora i
+ taliana.\nCalendario lunare dell'orto 2027 di Officina Laerte: https://www
+ .amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271220-ultimo@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271220
+DTEND;VALUE=DATE:20271221
+SUMMARY:Ultimo quarto (ore 10:10)
+DESCRIPTION:Luna calante: tradizionalmente si seminano ortaggi da radice e 
+ da bulbo\, si pota e si travasa il vino.\nOra esatta: 10:10 ora italiana.\
+ nCalendario lunare dell'orto 2027 di Officina Laerte: https://www.amazon.i
+ t/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271227-nuova@officinalaerte.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+SUMMARY:Luna nuova (ore 21:12)
+DESCRIPTION:Inizia la luna crescente: tradizionalmente si seminano ortaggi 
+ da foglia e da frutto.\nOra esatta: 21:12 ora italiana.\nCalendario lunare
+  dell'orto 2027 di Officina Laerte: https://www.amazon.it/dp/B0HPKH36NT
+URL:https://officinalaerte.github.io/calendario-lunare-2027/
+CATEGORIES:Fasi lunari
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
