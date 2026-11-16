@@ -17,6 +17,7 @@
 .t-vino { --accent: #6b1a2a; --accent-soft: #f5e9e9; }
 .t-albero { --accent: #4f5d2f; --accent-soft: #eef0e2; }
 .t-ricetta { --accent: #9a4a24; --accent-soft: #f7ebe2; }
+.t-cane { --accent: #8a6a1f; --accent-soft: #f6efdc; }
 
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
