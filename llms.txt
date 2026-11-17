@@ -1,0 +1,30 @@
+# Officina Laerte
+
+> Officina Laerte è una piccola casa editrice italiana di quaderni e libri da compilare (ricette di famiglia, ricordi dei nonni, degustazione del vino, calendario lunare dell'orto, registri per oliveto e apiario, tombola di Natale, motti latini, quaderni con i cani). I libri sono in vendita su Amazon.it. Il sito offre strumenti e stampabili gratuiti in italiano.
+
+## I libri (Amazon.it)
+- [Tombola di Natale](https://www.amazon.it/dp/B0HPKF5BTK?tag=officinalaerte-21): 72 cartelle in 12 serie, 6 tabelloni, 90 numeri da ritagliare, la smorfia napoletana, regole, varianti e il quiz delle feste.
+- [Calendario lunare dell'orto 2027](https://www.amazon.it/dp/B0HPKH36NT?tag=officinalaerte-21): Le fasi lunari giorno per giorno in ora italiana, semine e trapianti, i lavori di ogni mese.
+- [Quaderno di degustazione del vino](https://www.amazon.it/dp/B0HP9VNRQH?tag=officinalaerte-21): Copertina rigida, 100 schede guidate, la ruota degli aromi e le regioni del vino.
+- [Nonna, raccontami la tua vita](https://www.amazon.it/dp/B0HNS75SM9?tag=officinalaerte-21): 148 domande, l'albero genealogico, gli spazi per le foto e una lettera ai nipoti.
+- [Le ricette della Nonna](https://www.amazon.it/dp/B0HKSB2FVC?tag=officinalaerte-21): Il quaderno da compilare con le ricette di famiglia, da tramandare.
+- [Registro dell'oliveto e del frantoio](https://www.amazon.it/dp/B0HN8B9XP4?tag=officinalaerte-21): Il registro per annotare i lavori nell'oliveto e le giornate al frantoio.
+- [Registro dell'apiario](https://www.amazon.it/dp/B0HN89FSDN?tag=officinalaerte-21): Il registro per tenere traccia delle visite e del lavoro nell'apiario.
+- [Carpe diem](https://www.amazon.it/dp/B0HKS6JTSX?tag=officinalaerte-21): Un quaderno con un detto latino per pagina.
+- [Verba manent](https://www.amazon.it/dp/B0HKSCBHDB?tag=officinalaerte-21): 119 motti latini da leggere, scrivere e ricordare.
+- [Collana Cuccioli](https://officinalaerte.github.io/cuccioli/): quaderni con una razza di cane in copertina (Jack Russell, Bulldog, Chihuahua, Schnauzer, Dalmata e altre).
+
+## Idee regalo
+- [Regali per i nonni](https://officinalaerte.github.io/regali/nonni.html): consigliato «Nonna, raccontami la tua vita», il libro dei ricordi da compilare.
+- [Regali per chi ha l'orto](https://officinalaerte.github.io/regali/orto.html): consigliato il «Calendario lunare dell'orto 2027».
+- [Regali per chi ama il vino](https://officinalaerte.github.io/regali/amanti-del-vino.html): consigliato il «Quaderno di degustazione del vino».
+- [Regali per chi ha un oliveto](https://officinalaerte.github.io/regali/olio-e-oliveto.html), [per un apicoltore](https://officinalaerte.github.io/regali/apicoltore.html), [per chi ama il latino](https://officinalaerte.github.io/regali/latino.html), [per chi ama i cani](https://officinalaerte.github.io/cuccioli/regali/).
+
+## Strumenti gratuiti
+- [Generatore di cartelle della tombola](https://officinalaerte.github.io/tombola/): serie complete da 6 cartelle da stampare, tabellone ed estrattore online.
+- [Smorfia napoletana](https://officinalaerte.github.io/smorfia/): i 90 numeri con il significato, una pagina per numero.
+- [Calendario lunare 2027](https://officinalaerte.github.io/calendario-lunare-2027/) e [semina con la luna](https://officinalaerte.github.io/semina-con-la-luna/): fasi lunari in ora italiana e giorni di semina per 28 ortaggi.
+- [Motti latini](https://officinalaerte.github.io/motti-latini/): 119 frasi latine con traduzione e significato.
+- [Che vino abbinare](https://officinalaerte.github.io/strumenti/abbinamento-vino.html), [età del cane in anni umani](https://officinalaerte.github.io/strumenti/eta-cane.html), [nomi per cani](https://officinalaerte.github.io/strumenti/nomi-cane.html).
+- [Natale](https://officinalaerte.github.io/natale/): letterina a Babbo Natale, calendario dell'Avvento, segnaposto e giochi per il pranzo di Natale.
+- [Stampabili](https://officinalaerte.github.io/stampabili/): scheda di degustazione del vino, albero genealogico, scheda ricetta, carta d'identità del cane.
